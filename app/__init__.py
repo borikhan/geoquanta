@@ -1,0 +1,1 @@
+"""GeoQuanta application package."""
